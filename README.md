@@ -14,7 +14,7 @@ until I've acquired all the knowledge.
 
 ## Stats
 
-![](https://github-readme-stats.vercel.app/api?username=toodeluna&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=toodeluna&show_icons=true&theme=tokyonight)
 
 ## Technologies I Like To Use
 
